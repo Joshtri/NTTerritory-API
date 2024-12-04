@@ -1,0 +1,11 @@
+### Mengambil semua provinsi
+GET http://localhost:3000/api/provinsi
+
+### Mengambil kabupaten/kota berdasarkan ID provinsi (contoh: provinsi dengan ID 1)
+GET http://localhost:3000/api/kabupaten/1
+
+### Mengambil kecamatan berdasarkan ID kabupaten/kota (contoh: kabupaten dengan ID 101)
+GET http://localhost:3000/api/kecamatan/101
+
+### Mengambil kelurahan berdasarkan ID kecamatan (contoh: kecamatan dengan ID 10101)
+GET http://localhost:3000/api/kelurahan/10101
