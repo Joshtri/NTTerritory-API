@@ -10,20 +10,86 @@
             "kecamatan": [
               {
                 "id": 10101,
-                "nama": "Kecamatan Oebobo",
+                "nama": "Kecamatan Alak",
                 "kelurahan": [
-                  { "id": 1010101, "nama": "Kelurahan Fatululi" },
-                  { "id": 1010102, "nama": "Kelurahan Oetete" },
-                  { "id": 1010103, "nama": "Kelurahan Tuak Daun Merah" }
+                  { "id": 1010101, "nama": "Kelurahan Alak" },
+                  { "id": 1010102, "nama": "Kelurahan Namosain" },
+                  { "id": 1010103, "nama": "Kelurahan Nunbaun Sabu" },
+                  { "id": 1010104, "nama": "Kelurahan Nunhila" },
+                  { "id": 1010105, "nama": "Kelurahan Mantasi" },
+                  { "id": 1010106, "nama": "Kelurahan Batuplat" },
+                  { "id": 1010107, "nama": "Kelurahan Manutapen" },
+                  { "id": 1010108, "nama": "Kelurahan Penkase Oeleta" },
+                  { "id": 1010109, "nama": "Kelurahan Fatufeto" }
                 ]
               },
               {
                 "id": 10102,
                 "nama": "Kecamatan Kelapa Lima",
                 "kelurahan": [
-                  { "id": 1010201, "nama": "Kelurahan Lasiana" },
+                  { "id": 1010201, "nama": "Kelurahan Kelapa Lima" },
                   { "id": 1010202, "nama": "Kelurahan Oesapa" },
-                  { "id": 1010203, "nama": "Kelurahan Oesapa Barat" }
+                  { "id": 1010203, "nama": "Kelurahan Oesapa Barat" },
+                  { "id": 1010204, "nama": "Kelurahan Oesapa Selatan" },
+                  { "id": 1010205, "nama": "Kelurahan Lasiana" }
+                ]
+              },
+              {
+                "id": 10103,
+                "nama": "Kecamatan Kota Lama",
+                "kelurahan": [
+                  { "id": 1010301, "nama": "Kelurahan Merdeka" },
+                  { "id": 1010302, "nama": "Kelurahan Airmata" },
+                  { "id": 1010303, "nama": "Kelurahan Bonipoi" },
+                  { "id": 1010304, "nama": "Kelurahan Solor" },
+                  { "id": 1010305, "nama": "Kelurahan LLBK" },
+                  { "id": 1010306, "nama": "Kelurahan Lai-Lai Besi Kopan" },
+                  { "id": 1010307, "nama": "Kelurahan Oeba" },
+                  { "id": 1010308, "nama": "Kelurahan Tode Kisar" }
+                ]
+              },
+              {
+                "id": 10104,
+                "nama": "Kecamatan Kota Raja",
+                "kelurahan": [
+                  { "id": 1010401, "nama": "Kelurahan Airnona" },
+                  { "id": 1010402, "nama": "Kelurahan Bakunase" },
+                  { "id": 1010403, "nama": "Kelurahan Bakunase II" },
+                  { "id": 1010404, "nama": "Kelurahan Fontein" },
+                  { "id": 1010405, "nama": "Kelurahan Kuanino" },
+                  { "id": 1010406, "nama": "Kelurahan Naikoten I" },
+                  { "id": 1010407, "nama": "Kelurahan Naikoten II" },
+                  { "id": 1010408, "nama": "Kelurahan Nunleu" },
+                  { "id": 1010409, "nama": "Kelurahan Sikumana" }
+                ]
+              },
+              {
+                "id": 10105,
+                "nama": "Kecamatan Maulafa",
+                "kelurahan": [
+                  { "id": 1010501, "nama": "Kelurahan Belo" },
+                  { "id": 1010502, "nama": "Kelurahan Kolhua" },
+                  { "id": 1010503, "nama": "Kelurahan Maulafa" },
+                  { "id": 1010504, "nama": "Kelurahan Naimata" },
+                  { "id": 1010505, "nama": "Kelurahan Oepura" },
+                  { "id": 1010506, "nama": "Kelurahan Sikumana" },
+                  { "id": 1010507, "nama": "Kelurahan Penfui" },
+                  { "id": 1010508, "nama": "Kelurahan Fatukoa" },
+                  { "id": 1010509, "nama": "Kelurahan Kuanino" }
+                ]
+              },
+              {
+                "id": 10106,
+                "nama": "Kecamatan Oebobo",
+                "kelurahan": [
+                  { "id": 1010601, "nama": "Kelurahan Fatululi" },
+                  { "id": 1010602, "nama": "Kelurahan Kayu Putih" },
+                  { "id": 1010603, "nama": "Kelurahan Oebobo" },
+                  { "id": 1010604, "nama": "Kelurahan Oetete" },
+                  { "id": 1010605, "nama": "Kelurahan Tuak Daun Merah" },
+                  { "id": 1010606, "nama": "Kelurahan Bakunase II" },
+                  { "id": 1010607, "nama": "Kelurahan Naikoten I" },
+                  { "id": 1010608, "nama": "Kelurahan Naikoten II" }
                 ]
               }
             ]
