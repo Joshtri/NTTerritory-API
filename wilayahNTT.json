@@ -1,0 +1,83 @@
+{
+    "provinsi": [
+      {
+        "id": 1,
+        "nama": "Nusa Tenggara Timur",
+        "kabupaten_kota": [
+          {
+            "id": 101,
+            "nama": "Kota Kupang",
+            "kecamatan": [
+              {
+                "id": 10101,
+                "nama": "Kecamatan Oebobo",
+                "kelurahan": [
+                  { "id": 1010101, "nama": "Kelurahan Fatululi" },
+                  { "id": 1010102, "nama": "Kelurahan Oetete" },
+                  { "id": 1010103, "nama": "Kelurahan Tuak Daun Merah" }
+                ]
+              },
+              {
+                "id": 10102,
+                "nama": "Kecamatan Kelapa Lima",
+                "kelurahan": [
+                  { "id": 1010201, "nama": "Kelurahan Lasiana" },
+                  { "id": 1010202, "nama": "Kelurahan Oesapa" },
+                  { "id": 1010203, "nama": "Kelurahan Oesapa Barat" }
+                ]
+              }
+            ]
+          },
+          {
+            "id": 102,
+            "nama": "Kabupaten Kupang",
+            "kecamatan": [
+              {
+                "id": 10201,
+                "nama": "Kecamatan Kupang Barat",
+                "kelurahan": [
+                  { "id": 1020101, "nama": "Desa Batakte" },
+                  { "id": 1020102, "nama": "Desa Bolok" },
+                  { "id": 1020103, "nama": "Desa Oematnunu" }
+                ]
+              },
+              {
+                "id": 10202,
+                "nama": "Kecamatan Kupang Tengah",
+                "kelurahan": [
+                  { "id": 1020201, "nama": "Desa Noelbaki" },
+                  { "id": 1020202, "nama": "Desa Penfui Timur" },
+                  { "id": 1020203, "nama": "Desa Tanah Merah" }
+                ]
+              }
+            ]
+          },
+          {
+            "id": 103,
+            "nama": "Kabupaten Timor Tengah Selatan",
+            "kecamatan": [
+              {
+                "id": 10301,
+                "nama": "Kecamatan Soe",
+                "kelurahan": [
+                  { "id": 1030101, "nama": "Kelurahan Kota Baru" },
+                  { "id": 1030102, "nama": "Kelurahan Kota Lama" },
+                  { "id": 1030103, "nama": "Kelurahan Taubneno" }
+                ]
+              },
+              {
+                "id": 10302,
+                "nama": "Kecamatan Mollo Utara",
+                "kelurahan": [
+                  { "id": 1030201, "nama": "Desa Ajaobaki" },
+                  { "id": 1030202, "nama": "Desa Fae" },
+                  { "id": 1030203, "nama": "Desa Nunkolo" }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+  
