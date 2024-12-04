@@ -1,7 +1,6 @@
 import express from 'express';
 import cors from 'cors';
-// import bodyParser from 'body-parser';
-import wilayahNTT from './wilayahNTT.json' assert { type: 'json' }; // Import JSON data
+import wilayahNTT from './wilayahNTT.json' assert { type: 'json' }; // Menggunakan `assert` untuk JSON
 
 const app = express();
 const PORT = 3000;
