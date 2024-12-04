@@ -1,6 +1,6 @@
-import express from 'express';
-import cors from 'cors';
-import wilayahNTT from './wilayahNTT.json' assert { type: 'json' }; // Menggunakan `assert` untuk JSON
+const express = require('express');
+const cors = require('cors');
+const wilayahNTT = require('./wilayahNTT.json'); // Mengimpor JSON data
 
 const app = express();
 const PORT = 3000;
