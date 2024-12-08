@@ -141,6 +141,25 @@
                 ]
               }
             ]
+          },
+          {
+            "id":104,
+            "nama":"Kabupaten Alor",
+            "kecamatan":[
+              {
+                "id": 10401,
+                "nama": "Abad Selatan",
+                "kelurahan":[
+                  {"id":1040101, "nama": "Desa Kuifana"},
+                  {"id":1040102, "nama": "Desa Manatang"},
+                  {"id":1040103, "nama": "Desa Margeta"},
+                  {"id":1040104, "nama": "Desa Orgen"},
+                  {"id":1040105, "nama": "Desa Tribur"},
+                  {"id":1040106, "nama": "Desa Wakapsir"},
+                  {"id":1040107, "nama": "Desa Wakapsir Timur"}
+                ]
+              }
+            ]
           }
         ]
       }
